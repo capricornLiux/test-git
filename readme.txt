@@ -4,3 +4,4 @@ c
 d
 creating a new branch is quick and simple
 add dev2
+fixed a bug 01
